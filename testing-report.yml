@@ -28,10 +28,6 @@
   status: pass
 
 - summary: |
-    Проверка функционала сайта в браузере Google Chrome
-  status: fail
-
-- summary: |
     Проверка мобильной версии сайта
   status: fail
 
