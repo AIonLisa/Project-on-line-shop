@@ -17,7 +17,7 @@
 
 - summary: |
     Фильтрация товара по наличию
-  status: fail
+  status: pass
 
 - summary: |
     Фильтрация товара по цене
@@ -33,8 +33,4 @@
 
 - summary: |
     Проверка редиректа при клике на HexletStore
-  status: fail
-
-- summary: |
-    На сайте есть функция сброса всех фильтров при выборе товара
   status: fail
