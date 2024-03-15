@@ -5,7 +5,7 @@
 
 - summary: |
     Поиск товара по ключевому слову
-  status: fail
+  status: pass
 
 - summary: |
     Поиск товара по категории
