@@ -25,7 +25,7 @@ test-cases:
   status: fail
 
 - summary: |
-    Просмотр товара с подробным описаниием
+    Проверка открытия карточки товара
   status: pass
 
 - summary: |
@@ -35,7 +35,3 @@ test-cases:
 - summary: |
     Проверка редиректа при клике на HexletStore
   status: pass
-
-- summary: |
-    На сайте есть функция сброса всех фильтров при выборе товара
-  status: fail
