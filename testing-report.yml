@@ -2,31 +2,24 @@
 - summary: |
     Добавление товара в корзину
   status: pass
-
 - summary: |
     Поиск товара по ключевому слову
   status: pass
-
 - summary: |
     Поиск товара по категории
   status: pass
-
 - summary: |
     Фильтрация товара по бренду
   status: pass
-
 - summary: |
     Фильтрация товара по наличию
   status: pass
-
 - summary: |
     Фильтрация товара по цене
   status: pass
-
 - summary: |
     Проверка открытия карточки товара
   status: pass
-
 - summary: |
     Проверка мобильной версии сайта
   status: fail
