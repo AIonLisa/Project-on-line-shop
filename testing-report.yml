@@ -23,7 +23,6 @@
 - summary: |
     Проверка мобильной версии сайта
   status: fail
-
 - summary: |
     Проверка редиректа при клике на HexletStore
   status: fail
